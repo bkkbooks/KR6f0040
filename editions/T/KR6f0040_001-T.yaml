@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6f0040/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 後漢安息國三藏安世高譯聞如是一時佛遊於舍衛國爾時彌勒菩薩叉手白佛言世尊我欲小有所問若世尊聽所問者乃敢陳之佛言若有所疑便問吾當為汝解說使意歡喜彌勒問言云何菩薩摩訶薩不退轉法於大乘有進而不耗減行菩薩道並降伏魔怨如其狀貌悉還教知諸法根之相不厭於生死自有正慧不從他受疾成無上一切智地世尊讚曰善哉善哉所問隨順甚善大佳吾當為汝解說菩薩所得之行踰於所問諦聽善思念之於是彌勒受教一心靜聽佛告彌勒菩薩有八法具足疾逮得無上一切智地何謂為八一者內性清淨二者所行成就三者所施成就四者所願成就五者慈成就六者悲成就七者善權成就八者智慧成就是為八事菩薩疾逮得無上一切智彌勒菩薩及諸眾會皆歡喜
+  hash: sha256:a528b2273dde6da3596c04b9c31345af1a49ac5af59ace542d5f0a69417a8458
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 佛說大乘方等要慧經, id: KR6f0040_T_001-juan-start, juan_n: '001', jhead: 佛說大乘方等要慧經}
+  - {type: 'cbeta:juan-end', offset: 280, content: 大乘方等要慧經, id: KR6f0040_T_001-juan-end, juan_n: '001', jhead: 大乘方等要慧經}
+metadata:
+  title: 佛說大乘方等要慧經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0348.xml
+    old_id: T12n0348
+hash: sha256:ee5591d9650213872610a9536bff013fcf23678596b51204488effe4ce0002f2

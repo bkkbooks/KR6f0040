@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0040/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大乘方等要慧經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0348.xml
+    old_id: T12n0348
+hash: sha256:433513b143d612f73bac1f919aeff168b288a30269c63665c445f8cf8e8176d4

@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6f0040/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0040/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大乘方等要慧經
+  identifiers:
+    krp: KR6f0040
+    cbeta: T12n0348
+    cbeta_old_id: T12n0348
+    authorityid: CA0003686
+    json_key: T0348
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0348.xml
+    old_id: T12n0348
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0040_000-T.yaml, hash: 'sha256:433513b143d612f73bac1f919aeff168b288a30269c63665c445f8cf8e8176d4'}
+  - {seq: 1, filename: KR6f0040_001-T.yaml, hash: 'sha256:ee5591d9650213872610a9536bff013fcf23678596b51204488effe4ce0002f2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0040_000-T.markers.yaml, hash: 'sha256:62dbe64904b1384e8a6a2c699b1b14e782cedd1ebdb943969bb1bf912d290ae1'}
+  - {seq: 1, role: markers, filename: assets/KR6f0040_001-T.markers.yaml, hash: 'sha256:35e3a358a2faa18a2e869301220dc615669ac69c3c9abec5ff7899c82a34ed97'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0040_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 280
+  label: 佛說大乘方等要慧經
+  type: juan
+  level: 1
+hash: sha256:e9720d8718be3d60ebe668427c23f0325a7223bf4eb678122c1c32c9e240bd3f
