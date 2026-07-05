@@ -108,9 +108,8 @@ markers:
   - {type: line-break, offset: 269, content: '', id: KR6f0040_T_001-0186c01, ed: T, 'n': 0186c01}
   - {type: xml-element, offset: 269, content: '', id: pT12p0186c0101, name: p, role: open, attrs: {'xml:id': pT12p0186c0101}}
   - {type: variant, offset: 274, length: 3, content: 諸眾會K06n0050_p1337a22T04n0202_p0359b07, 大: 諸會, 宋: 眾會, 元: 眾會, 明: 眾會, 宮: 眾會}
-  - {type: substitution, offset: 275, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 280, content: 。, id: KR6f0040_T_001-bkkpn63}
   - {type: xml-element, offset: 280, content: '', id: pT12p0186c0101_end, name: p, role: close, attrs: {'xml:id': pT12p0186c0101}}
   - {type: line-break, offset: 280, content: '', id: KR6f0040_T_001-0186c02, ed: T, 'n': 0186c02}
   back: []
-hash: sha256:3d7db2f4a3d8ca6f26f4a1705470e786985e33e8914302e3bda86e196fec85e1
+hash: sha256:10b10187a7e4767e60f4f731171096b1eef4a351bbcac4751795142efe1f90c7
